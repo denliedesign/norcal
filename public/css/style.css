@@ -1,0 +1,665 @@
+*, html, body {
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#stoplight {
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    z-index: 4;
+}
+
+.stoplight-col {
+    padding: 1px !important;
+}
+
+.triangle-top-right {
+    width: 0;
+    height: 0;
+    border-top: 25px solid #192328;
+    border-left: 25px solid transparent;
+    filter: brightness(200%);
+}
+
+.stop-block {
+    height: 50px;
+    width: 50px;
+    background: #192328;
+    position: relative;
+    filter: brightness(200%);
+}
+
+.light-circle {
+    height: 35px;
+    width: 35px;
+    border-radius: 17.5px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -17.5px;
+    margin-left: -17.5px;
+}
+
+.red-light {
+    background: red;
+    border: 2px solid red;
+    opacity: 25%;
+    filter: brightness(25%) blur(0);
+}
+
+.yellow-light {
+    background: yellow;
+    border: 2px solid yellow;
+    opacity: 125%;
+    filter: brightness(125%) blur(1px);
+}
+
+.green-light {
+    background: green;
+    border: 2px solid green;
+    opacity: 25%;
+    filter: brightness(25%) blur(0);
+}
+
+.yellow-light:hover {
+    transform: scale(1.1);
+}
+
+.triangle-top-left {
+    width: 0;
+    height: 0;
+    border-top: 25px solid #192328;
+    border-right: 25px solid transparent;
+    filter: brightness(200%);
+}
+
+
+#top-nav {
+    background: #323232;
+    color: white;
+}
+
+#top-nav a {
+    color: white;
+    opacity: 60%;
+    font-size: 0.9em;
+}
+
+
+#head-section {
+    height: 100vh;
+    width: 100%;
+    background: url("/images/norcal-cheer-header.jpg");
+    background-size: cover;
+    background-position: 50% 30%;
+    background-attachment: scroll;
+    position: relative;
+}
+
+#head-title {
+
+}
+
+.navbar {
+    position: absolute;
+    top: 10px;
+    z-index: 3;
+    background: transparent;
+    text-transform: uppercase;
+}
+
+.navbar a, .navbar a:hover {
+    color: white;
+}
+
+#nav-dark-txt a {
+    color: black !important;
+}
+
+#nav-light-txt li {
+    text-shadow: 2px 2px 2px black;
+}
+
+#nav-mobile a {
+    background: black !important;
+    border-radius: 0px !important;
+}
+
+.navbar li {
+    margin: 0 3px;
+    opacity: 80%;
+    font-weight: bold;
+    /*text-shadow: 1px 1px 7px white;*/
+    /*background: rgba(255, 255, 255, 0.7);*/
+    /*border-radius: 20px;*/
+}
+
+.navbar li:hover {
+    opacity: 100%;
+}
+
+#logo {
+    height: 120px;
+    width: auto;
+}
+
+#head-section h2 {
+    margin: 0;
+    color: #d1a208;
+    text-shadow: 4px 4px 3px black;
+    font-size: 2.5em;
+    font-weight: bold;
+    /*-webkit-text-stroke: 1px #d1a208;*/
+}
+
+#head-section h1 {
+    margin: 0;
+    padding: 0;
+    color: white;
+    text-shadow: 4px 4px 3px black;
+    font-size: 3.5em;
+    font-weight: bold;
+    /*-webkit-text-stroke: 2px #d1a208;*/
+}
+
+.btn-primary {
+    background: #336dbc;
+}
+
+.btn-outline-primary {
+    font-size: 1.25em !important;
+    font-weight: bold !important;
+    border-radius: 50px !important;
+    border: 3px solid white !important;
+    color: white !important;
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+    background: #336dbc !important;
+    text-transform: uppercase;
+}
+
+.btn-outline-primary:hover {
+    border: 3px solid #336dbc !important;
+    background: #336dbc !important;
+    transition: all 0.7s ease;
+}
+
+/*#colored-boxes div {*/
+/*    margin-top: -100px;*/
+/*    z-index: 3;*/
+/*    height: 224px;*/
+/*    width: 220px;*/
+/*    border-radius: 20px;*/
+/*    transition: transform 0.4s ease;*/
+/*}*/
+
+#colored-dashes {
+    width: 33%;
+    margin: 0 auto;
+}
+
+#colored-dashes div {
+    height: 3px;
+    width: 90px;
+}
+
+.flip-card {
+    perspective: 1000px;
+}
+
+.flip-card-inner {
+    position: relative;
+    text-align: center;
+    transition: transform 0.8s;
+    transform-style: preserve-3d;
+    margin-top: -100px;
+    z-index: 3;
+    height: 224px;
+    width: 220px;
+}
+
+.flip-card:hover .flip-card-inner {
+    transform: rotateY(180deg);
+}
+
+.flip-card-front, .flip-card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden; /* Safari */
+    backface-visibility: hidden;
+    border-radius: 20px;
+    background: #eab830;
+}
+
+.flip-card-back {
+    transform: rotateY(180deg);
+    font-size: 0.7em !important;
+}
+
+/*#colored-boxes div:hover {*/
+/*    transform: translateY(-30px);*/
+/*}*/
+
+.flip-card ion-icon {
+    color: white;
+    font-size: 3em;
+}
+
+#colored-boxes p {
+    color: white;
+    font-weight: bold;
+    font-size: 1.25em;
+    padding: 5px 10px;
+}
+
+.box-one, .one-dash { background: #336dbc !important; }
+.box-two, .two-dash { background: #d1a208; }
+.box-three, .three-dash { background: #323232; }
+.box-four, .four-dash { background: #12a9b0; }
+.box-five, .five-dash { background: #d94da6; }
+
+.btn-pink { background: #d82238 !important; color: white !important; margin-bottom: 3px; }
+.btn-grey { background: #323232 !important; color: white !important; margin-bottom: 3px; }
+.btn-green { background: #10c45c !important; color: white !important; margin-bottom: 3px; }
+.btn-aqua { background: #336dbc !important; color: white !important; }
+.btn-pink:hover, .btn-green:hover, .btn-aqua:hover, .btn-grey:hover { filter: brightness(90%);}
+
+.bg-light-gray {
+    background: #084FD1;
+}
+
+.bg-mdu-gray {
+    background: #1D2EC2;
+}
+
+#achievements-section {
+    height: 100vh;
+    width: 100%;
+    background: url("/images/dance-at-home.JPG");
+    background-size: cover;
+    background-position: top;
+    background-attachment: fixed;
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+    position: relative;
+}
+
+#achievements-content {
+    z-index: 4;
+}
+
+#achievements-overlay {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background: #062845;
+    opacity: 60%;
+    z-index: 0;
+}
+
+#achievements-section ion-icon {
+    font-size: 4em;
+}
+
+.achievement-number {
+    font-size: 3em;
+    font-weight: bold;
+    color: #d1a208 !important;
+}
+
+.achievement-text {
+    font-size: 1.25em;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+#teacher-focus-section {
+    background: white;
+    /*height: 100vh;*/
+}
+
+#focus-label {
+    background: white;
+    border: 2px solid black;
+    color: black;
+    padding: 10px 20px;
+    width: max-content;
+}
+
+#focus-name {
+    font-size: 3em;
+    font-weight: bold;
+}
+
+#focus-list {
+    font-size: 1.15em;
+}
+
+#teacher-focus-classes {
+    margin-top: -115px;
+    z-index: 3;
+}
+
+#trial-section {
+    background: linear-gradient(to right, #084FD1, #1D2EC2);
+    color: white;
+}
+
+.gold-date-box {
+    border: 2px solid #978547;
+    padding: 2px;
+    color: #978547;
+}
+
+.gold-number {
+    font-size: 1.5em;
+}
+
+.gold-month {
+    font-size: 0.85em;
+}
+
+.short-divide {
+    width: 100px;
+    border-top: 3px solid #d82238;
+}
+
+.blog-link h5:hover {
+    color: #336dbc;
+    cursor: pointer;
+}
+
+#blog-section img {
+    position: relative;
+}
+
+.blog-link-img img {
+    transition: all 0.4s ease;
+}
+
+.blog-link-img img:hover {
+    cursor: pointer;
+    filter: grayscale(20%) brightness(80%);
+    opacity: 80%;
+}
+
+.bg-gray {
+    background: #323232 !important;
+}
+
+.footer {
+    margin: 0 3%;
+    font-size: 90%;
+}
+
+.footer img {
+    width: 100%;
+}
+
+.footer-title {
+    border-right: 1px solid #d82238;
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 70%;
+}
+
+.footer-section {
+    position: relative;
+}
+
+.footer ul {
+    text-align: left;
+    margin-left: 20px;
+}
+
+.footer li {
+    color: white;
+    opacity: 70%;
+    padding: 0;
+    line-height: 1.5;
+    margin-left: 25px;
+}
+
+.footer a {
+    color: white;
+    padding: 0;
+}
+
+.footer a:hover {
+    color: white;
+}
+
+.footer li:hover {
+    text-decoration: underline;
+}
+
+.footer .col-1,
+.footer .col-3,
+.footer .col-5 {
+    padding: 0;
+}
+
+.footer iframe {
+    border: 1px solid #EEA9AA;
+}
+
+#credit {
+    margin: 0;
+}
+
+#credit a {
+    text-decoration: none;
+}
+
+#credit a:hover {
+    text-decoration: underline;
+}
+
+.banner-wrap {
+    height: 200px;
+}
+
+.banner-party-wrap {
+    height: 400px;
+}
+
+.banner {
+    height: 100%;
+    background-image: url(/images/banner.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.banner-party {
+    height: 100%;
+    background-image: url(/images/birthday.png);
+    background-attachment: fixed;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.border-green {
+    border: 2px solid #c1d62e;
+}
+
+.div-green {
+    height: 4px;
+    width: 33%;
+    background: #c1d62e;
+    display: block;
+    margin: 0 auto;
+    border-radius: 4px;
+}
+
+.background-green {
+    background: #c1d62e;
+}
+
+.number-green {
+    background: #12a9b0;
+    color: white;
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 20px;
+}
+
+#class-schedule td a {
+    background: #3d1951;
+    color: white;
+    padding: 5px;
+    font-size: 0.8em;
+}
+
+#class-schedule td a:hover {
+    text-decoration: none;
+    background: #4F2C63;
+}
+
+
+/*---------------------------------------*/
+/* BIO ACCORDION */
+/*---------------------------------------*/
+/* Style the buttons that are used to open and close the accordion panel */
+.bioaccordion {
+    cursor: pointer;
+    width: 100%;
+    border: none;
+    outline: none;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+    font: inherit;
+    font-size: inherit;
+    font-weight: inherit;
+}
+
+.bioaccordion:hover {
+    background-color: #EEA9AA;
+}
+
+/* Style the accordion panel. Note: hidden by default */
+.biopanel {
+    max-height: 0;
+    overflow: hidden;
+    -webkit-transition: max-height 0.2s ease-out;
+    transition: max-height 0.2s ease-out;
+    z-index: 1;
+    width: 100%;
+}
+
+
+
+/*---------------------------------------*/
+/* TEACHERS */
+/*---------------------------------------*/
+
+.teacher-img {
+    width: 100%;
+}
+
+
+.about-teacher-card {
+    width: 100%;
+    box-shadow: 4px 4px 6px rgba(0,0,0,0.6),
+    -4px -4px 12px rgba(255,255,255,1);
+    margin-bottom: 20px;
+}
+
+.about-teacher-card h4,
+.teacher-list li {
+    text-align: center;
+    text-transform: uppercase;
+    padding: 10px;
+    margin: 0;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.about-teacher-card p {
+    width: 100%;
+    padding: 20px;
+    font-size: 85%;
+}
+
+.badge-secondary {
+    background: #062845 !important;
+    color: white !important;
+    font-weight: bold !important;
+    font-size: 1em !important;
+}
+
+#teach-feat-card-content {
+    height: 96px;
+    text-align: center;
+}
+
+.mat-blue { background: #336dbc; }
+.medal-gold { background: #d1a208; }
+.strong-gray { background: #323232; }
+
+.tot-icons ion-icon {
+    font-size: 2em;
+}
+
+.big-gold-text {
+    font-size: 2em;
+    color: #d1a208;
+    font-weight: bold;
+    background: linear-gradient(to right, #084FD1, #1D2EC2);
+    padding: 10px 20px;
+    line-height: 2;
+}
+
+.rounded-manual {
+    border-radius: 15px;
+}
+
+.rounded-top {
+    border-radius: 15px 15px 0 0;
+}
+
+.medium-gold-text {
+    font-size: 1.33em;
+    color: #d1a208;
+    font-style: italic;
+    font-weight: bold;
+    background: linear-gradient(to right, #084FD1, #1D2EC2);
+    padding: 10px 20px;
+    border-radius: 15px;
+    line-height: 2;
+}
+
+.font-weight-bold {
+    font-weight: bold;
+}
+
+/*****
+
+pastel blue
+#336dbc
+
+middle blue
+#084FD1 *official
+#0152c3 *guess
+
+bright blue
+#1D2EC2
+
+darker bright blue
+#1a29ae
+
+gold
+#d1a208
+
+gym red
+#d82238
+
+****/
