@@ -37,22 +37,22 @@
 </div>
 
 <div id="mobile-class-types" class="text-white text-center d-block d-md-none">
-    <div class="box-one py-2">
+    <div class="box-one py-4">
         <div>
-            <ion-icon name="business-outline"></ion-icon>
-            <p>In-Gym Classes</p>
+{{--            <ion-icon name="business-outline"></ion-icon>--}}
+            <p>Cheer and Tumbling Classes</p>
         </div>
     </div>
-    <div class="box-two py-2">
+    <div class="box-two py-4">
         <div>
-            <ion-icon name="videocam-outline"></ion-icon>
-            <p>Live Stream</p>
+{{--            <ion-icon name="videocam-outline"></ion-icon>--}}
+            <p>Competitive Cheer and Hip Hop</p>
         </div>
     </div>
-    <div class="box-three py-2">
+    <div class="box-three py-4">
         <div>
-            <ion-icon name="person-circle-outline"></ion-icon>
-            <p>Private Lessons & Social Bubble Classes</p>
+{{--            <ion-icon name="person-circle-outline"></ion-icon>--}}
+            <p>Camps and Events</p>
         </div>
     </div>
 </div>

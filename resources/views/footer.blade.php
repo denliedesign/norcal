@@ -58,7 +58,7 @@
                         </li>
                         <li class="nav-item">
                             <ion-icon name="mail"></ion-icon>
-                            ???@gmail.com
+                            norcalcheerandance@gmail.com
                         </li>
                     </ul>
                 </div>
