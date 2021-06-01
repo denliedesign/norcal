@@ -178,7 +178,7 @@
             </div>
             <div class="col px-2 pb-3 d-flex justify-content-center">
                 <div class="class-card-wrap border border-muted">
-                    <img src="/images/class-tiny-tumbling.jpg" alt="tiny tumbler" class="img-fluid" style="height: 328px; object-fit: cover; object-position: 15% 0;">
+                    <img src="/images/class-tiny-tumbling.JPG" alt="tiny tumbler" class="img-fluid" style="height: 328px; object-fit: cover; object-position: 15% 0;">
                     <div class="class-card-content my-3">
                         <p class="m-0 text-center"><strong>Tiny Tumbling</strong> <small class="text-muted">age 3-6</small></p>
                         <hr>
@@ -206,7 +206,7 @@
             </div>
             <div class="col px-2 pb-3 d-flex justify-content-center">
                 <div class="class-card-wrap border border-muted">
-                    <img src="/images/class-beginner-tumbling.jpg" alt="beginning tumbler" class="img-fluid" style="height: 328px; object-fit: cover; object-position: 15% 0;">
+                    <img src="/images/class-beginner-tumbling.JPG" alt="beginning tumbler" class="img-fluid" style="height: 328px; object-fit: cover; object-position: 15% 0;">
                     <div class="class-card-content my-3">
                         <p class="m-0 text-center"><strong>Beginner Tumbling</strong></p>
                         <hr>
