@@ -8,6 +8,9 @@
         <h2 class="text-uppercase text-center">Be A Part Of</h2>
         <h1 class="text-uppercase text-center">Something Great</h1>
         <div class="d-flex justify-content-center mt-4">
+            <a href="https://norcal-cheer-and-dance.studiosuite.io/s/trial-classes" target="_blank"><div class="btn btn-outline-primary">Book Your Trial Class</div></a>
+        </div>
+        <div class="d-flex justify-content-center mt-4">
             <a href="https://app.thestudiodirector.com/norcalcheer/portal.sd?page=Enroll&meth=search" target="_blank"><div class="btn btn-outline-primary">Enroll Now</div></a>
         </div>
     </div>
@@ -159,72 +162,72 @@
     <div class="container">
         <h2 class="my-5 font-weight-bold text-uppercase">Classes For All Ages</h2>
         <div class="row row-cols-2 row-cols-md-3 row-cols-lg-5 mb-5">
-            <div class="col px-2 pb-3">
+            <div class="col px-2 pb-3 d-flex justify-content-center">
                 <div class="class-card-wrap border border-muted">
-                    <img src="/images/norcal-classes.png" alt="" class="img-fluid" style="object-fit: cover; object-position: 15% 0;">
+                    <img src="/images/class-tumble-tots.jpg" alt="tumble tot" class="img-fluid" style="height: 328px; object-fit: cover; object-position: 15% 0;">
                     <div class="class-card-content my-3">
                         <p class="m-0 text-center"><strong>Tumble Tots</strong> <small class="text-muted">age 18mo-3yr</small></p>
                         <hr>
                         <div class="text-center">
 
-                            <a href="/" class="ml-2"><div class="btn btn-aqua btn-sm text-center text-uppercase">Info</div></a>
+                            <a href="/tumbling" class="ml-2"><div class="btn btn-aqua btn-sm text-center text-uppercase">Info</div></a>
                             <a href="https://app.thestudiodirector.com/norcalcheer/portal.sd?page=Enroll&meth=search" target="_blank"><div class="btn btn-sm btn-pink text-center text-uppercase">Enroll</div></a>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="col px-2 pb-3">
+            <div class="col px-2 pb-3 d-flex justify-content-center">
                 <div class="class-card-wrap border border-muted">
-                    <img src="/images/norcal-classes.png" alt="" class="img-fluid" style="object-fit: cover; object-position: 15% 0;">
+                    <img src="/images/class-tiny-tumbling.jpg" alt="tiny tumbler" class="img-fluid" style="height: 328px; object-fit: cover; object-position: 15% 0;">
                     <div class="class-card-content my-3">
                         <p class="m-0 text-center"><strong>Tiny Tumbling</strong> <small class="text-muted">age 3-6</small></p>
                         <hr>
                         <div class="text-center">
 
-                            <a href="/" class="ml-2"><div class="btn btn-aqua btn-sm text-center text-uppercase">Info</div></a>
+                            <a href="/tumbling" class="ml-2"><div class="btn btn-aqua btn-sm text-center text-uppercase">Info</div></a>
                             <a href="https://app.thestudiodirector.com/norcalcheer/portal.sd?page=Enroll&meth=search" target="_blank"><div class="btn btn-sm btn-pink text-center text-uppercase">Enroll</div></a>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="col px-2 pb-3">
+            <div class="col px-2 pb-3 d-flex justify-content-center">
                 <div class="class-card-wrap border border-muted">
-                    <img src="/images/norcal-classes.png" alt="" class="img-fluid" style="object-fit: cover; object-position: 15% 0;">
+                    <img src="/images/class-recreational-cheer.jpg" alt="recreational cheerleaders" class="img-fluid" style="height: 328px; object-fit: cover; object-position: 15% 0;">
                     <div class="class-card-content my-3">
                         <p class="m-0 text-center"><strong>Recreational Cheer Classes</strong></p>
                         <hr>
                         <div class="text-center">
 
-                            <a href="/" class="ml-2"><div class="btn btn-aqua btn-sm text-center text-uppercase">Info</div></a>
+                            <a href="/cheer" class="ml-2"><div class="btn btn-aqua btn-sm text-center text-uppercase">Info</div></a>
                             <a href="https://app.thestudiodirector.com/norcalcheer/portal.sd?page=Enroll&meth=search" target="_blank"><div class="btn btn-sm btn-pink text-center text-uppercase">Enroll</div></a>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="col px-2 pb-3">
+            <div class="col px-2 pb-3 d-flex justify-content-center">
                 <div class="class-card-wrap border border-muted">
-                    <img src="/images/norcal-classes.png" alt="" class="img-fluid" style="object-fit: cover; object-position: 15% 0;">
+                    <img src="/images/class-beginner-tumbling.jpg" alt="beginning tumbler" class="img-fluid" style="height: 328px; object-fit: cover; object-position: 15% 0;">
                     <div class="class-card-content my-3">
                         <p class="m-0 text-center"><strong>Beginner Tumbling</strong></p>
                         <hr>
                         <div class="text-center">
 
-                            <a href="/" class="ml-2"><div class="btn btn-aqua btn-sm text-center text-uppercase">Info</div></a>
+                            <a href="/tumbling" class="ml-2"><div class="btn btn-aqua btn-sm text-center text-uppercase">Info</div></a>
                             <a href="https://app.thestudiodirector.com/norcalcheer/portal.sd?page=Enroll&meth=search" target="_blank"><div class="btn btn-sm btn-pink text-center text-uppercase">Enroll</div></a>
                         </div>
                     </div>
                 </div>
             </div>
 
-            <div class="col px-2 pb-3">
+            <div class="col px-2 pb-3 d-flex justify-content-center">
                 <div class="class-card-wrap border border-muted">
-                    <img src="/images/norcal-classes.png" alt="" class="img-fluid" style="object-fit: cover; object-position: 15% 0;">
+                    <img src="/images/class-level-1-4-tumbling.jpg" alt="tumblers level 1-4" class="img-fluid" style="height: 328px; object-fit: cover; object-position: 15% 0;">
                     <div class="class-card-content my-3">
                         <p class="m-0 text-center"><strong>Level 1-4 Tumbling</strong></p>
                         <hr>
                         <div class="text-center">
 
-                            <a href="/" class="ml-2"><div class="btn btn-aqua btn-sm text-center text-uppercase">Info</div></a>
+                            <a href="/tumbling" class="ml-2"><div class="btn btn-aqua btn-sm text-center text-uppercase">Info</div></a>
                             <a href="https://app.thestudiodirector.com/norcalcheer/portal.sd?page=Enroll&meth=search" target="_blank"><div class="btn btn-sm btn-pink text-center text-uppercase">Enroll</div></a>
                         </div>
                     </div>
