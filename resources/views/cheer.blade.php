@@ -7,7 +7,7 @@
     <div class="container my-5" id="class-schedule">
         <div class="row">
             <div class="col-sm">
-                <img src="/images/norcal-cheer.png" alt="cheerleaders" class="img-fluid shadow rounded">
+                <img src="/images/cheer-at-norcal.jpg" alt="cheerleaders" class="img-fluid shadow rounded">
             </div>
             <div class="col-sm d-flex align-items-center">
                 <div>

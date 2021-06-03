@@ -7,7 +7,7 @@
     <div class="container my-5" id="class-schedule">
         <h2 class="text-center text-uppercase">Our Staff</h2>
 
-        <div class="about-teacher-wrapper row row-cols-1 row-cols-sm-2 row-cols-md-2 row-cols-lg-2">
+        <div class=" mt-5 about-teacher-wrapper row row-cols-1 row-cols-sm-2 row-cols-md-2 row-cols-lg-2">
             <div class="teacher-col col-sm">
                 <div class="about-teacher-card">
                     <img class="teacher-img" src="images/norcal-coach-kelly.png">
@@ -35,21 +35,37 @@
                     </div>
                 </div>
             </div>
-            <div class="teacher-col col-sm">
-                <div class="about-teacher-card">
-                    <img class="teacher-img" src="images/coach-lenisha.png">
-                    <button class="bioaccordion"><h4>Coach Lenisha</h4></button>
-                    <div class="biopanel">
-                        <p>
-                            Hello my name is Lenisha Williams also known as Coach Lenny !!
-                            <br><br>
-                            I began dancing at age 5 in San Francisco at the AAACC (African American Art & Culture Complex) where she learned the styles of HipHop and African style. I continued dancing into my youth and teenage years as well as cheerleading. I cheered for Delta Valley Wolfpack and Wolfpack Elite for 6 years doing Show Cheer, Performance Cheer , HipHop and Pom Dance. While competing competitively I was a defending champion for DVWP in Show Cheer , Performance Cheer , and HipHop. I then went to school at Deer Valley High School where I continued my passion for dance in the Performing Arts Academy. I learned all styles of dance: lyrical, ballet, jazz, contemporary, tap, and modern. I began teaching at the Antioch Recreation Department from 2016-2017 where I taught Tippy Twos Ballet , Tiny HipHop and Youth HipHop, Toddlers and Tiaras Ballet, Tiny Gymnastics and Cheerleading.
-                            <br><br>
-                            I resigned from my position at the Antioch Recreation Department to join the NorCal staff. I’ve been helping Coach Kelly with NorCal for almost 4-5 years now. Leading them to first place at many competitions. I understand that teaching your children is a huge responsibility and I will do my best to make sure each and everyone is safe and continuing to motivate them and aspire to be a better them.
-                        </p>
-                    </div>
-                </div>
+            <div class="col-sm">
+                <p>
+                  <strong>Bios Coming Soon For...</strong>
+                    <br>Recreational Program Director- Tammy Ownesby
+                    <br>Isabella Derita
+                    <br>Jamie Carr
+                    <br>Gabriella Lopez
+                    <br>Christina Gonzales
+                    <br>Marina Garcia
+                    <br>Brylie Hoover
+                    <br>Brooke Irvine
+                    <br>Ashley Pearce
+                    <br>Danielle Lien
+                    <br>Jordan Nunley
+                </p>
             </div>
+{{--            <div class="teacher-col col-sm">--}}
+{{--                <div class="about-teacher-card">--}}
+{{--                    <img class="teacher-img" src="images/coach-lenisha.png">--}}
+{{--                    <button class="bioaccordion"><h4>Coach Lenisha</h4></button>--}}
+{{--                    <div class="biopanel">--}}
+{{--                        <p>--}}
+{{--                            Hello my name is Lenisha Williams also known as Coach Lenny !!--}}
+{{--                            <br><br>--}}
+{{--                            I began dancing at age 5 in San Francisco at the AAACC (African American Art & Culture Complex) where she learned the styles of HipHop and African style. I continued dancing into my youth and teenage years as well as cheerleading. I cheered for Delta Valley Wolfpack and Wolfpack Elite for 6 years doing Show Cheer, Performance Cheer , HipHop and Pom Dance. While competing competitively I was a defending champion for DVWP in Show Cheer , Performance Cheer , and HipHop. I then went to school at Deer Valley High School where I continued my passion for dance in the Performing Arts Academy. I learned all styles of dance: lyrical, ballet, jazz, contemporary, tap, and modern. I began teaching at the Antioch Recreation Department from 2016-2017 where I taught Tippy Twos Ballet , Tiny HipHop and Youth HipHop, Toddlers and Tiaras Ballet, Tiny Gymnastics and Cheerleading.--}}
+{{--                            <br><br>--}}
+{{--                            I resigned from my position at the Antioch Recreation Department to join the NorCal staff. I’ve been helping Coach Kelly with NorCal for almost 4-5 years now. Leading them to first place at many competitions. I understand that teaching your children is a huge responsibility and I will do my best to make sure each and everyone is safe and continuing to motivate them and aspire to be a better them.--}}
+{{--                        </p>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
 
         </div>
 
