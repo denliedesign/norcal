@@ -11,10 +11,7 @@
     <a class="nav-link" href="/tumbling">Tumbling</a>
 </li>
 <li class="nav-item">
-    <a class="nav-link" href="/hip-hop">Hip Hop</a>
-</li>
-<li class="nav-item">
-    <a class="nav-link" href="/theme">Theme</a>
+    <a class="nav-link" href="/dance">Dance</a>
 </li>
 <li class="nav-item">
     <a class="nav-link" href="/parent-handbook">Handbook</a>

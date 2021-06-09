@@ -38,12 +38,8 @@ Route::get('tumbling', function () {
     return view('tumbling');
 });
 
-Route::get('hip-hop', function () {
-    return view('hip-hop');
-});
-
-Route::get('theme', function () {
-    return view('theme');
+Route::get('dance', function () {
+    return view('dance');
 });
 
 Route::get('parent-handbook', function () {

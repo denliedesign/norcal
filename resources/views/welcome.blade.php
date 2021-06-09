@@ -11,7 +11,7 @@
             <a href="https://norcal-cheer-and-dance.studiosuite.io/s/trial-classes" target="_blank"><div class="btn btn-outline-primary">Book Your Trial Class</div></a>
         </div>
         <div class="d-flex justify-content-center mt-4">
-            <a href="https://app.thestudiodirector.com/norcalcheer/portal.sd?page=Enroll&meth=search" target="_blank"><div class="btn btn-outline-primary">Enroll Now</div></a>
+            <a href="https://norcal-cheer-and-dance.studiosuite.io/m/norcal-info-kit" target="_blank"><div class="btn btn-outline-primary">Download your NorCal Info Kit</div></a>
         </div>
     </div>
     </div>

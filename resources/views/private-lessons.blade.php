@@ -9,6 +9,6 @@
             <br>
             Semi-private are $55 (per 30 min. lesson split between a max of 3 people)
         </p>
-        <a href="https://app.thestudiodirector.com/norcalcheer/portal.sd?page=Enroll&meth=search" target="_blank"><div class="btn btn-pink text-center text-uppercase mb-3">Enroll</div></a>
+        <a href="https://forms.gle/VzbPLHnVyckUgzah6" target="_blank"><div class="btn btn-pink text-center text-uppercase mb-3">Schedule</div></a>
     </div>
 </div>
