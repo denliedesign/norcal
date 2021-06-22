@@ -54,11 +54,11 @@
                         </li>
                         <li class="nav-item">
                             <ion-icon name="call"></ion-icon>
-                            925-420-4855
+                            925-308-3476
                         </li>
                         <li class="nav-item">
                             <ion-icon name="mail"></ion-icon>
-                            norcalcheerandance@gmail.com
+                            norcalcheeranddance@gmail.com
                         </li>
                     </ul>
                 </div>

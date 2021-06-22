@@ -2,10 +2,10 @@
     <a class="nav-link"><ion-icon name="location-outline"></ion-icon> 3901 Walnut Blvd, Suite C, Brentwood, CA 94513</a>
 </li>
 <li class="nav-item">
-    <a class="nav-link"><ion-icon name="call-outline"></ion-icon> 925-420-4855</a>
+    <a class="nav-link"><ion-icon name="call-outline"></ion-icon> 925-308-3476</a>
 </li>
 <li class="nav-item">
-    <a class="nav-link"><ion-icon name="mail-outline"></ion-icon> norcalcheerandance@gmail.com</a>
+    <a class="nav-link"><ion-icon name="mail-outline"></ion-icon> norcalcheeranddance@gmail.com</a>
 </li>
 <div class="nav justify-content-center ml-1">
     <li class="nav-item mt-1">
