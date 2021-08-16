@@ -54,7 +54,7 @@ class UpdatePolicy
     public function update(User $user)
     {
         return in_array($user->email, [
-            'themanicotti@gmail.com',
+            'customdenlie@gmail.com',
         ]);
     }
 
